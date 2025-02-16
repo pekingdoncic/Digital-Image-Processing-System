@@ -1,0 +1,1389 @@
+﻿  pch.cpp
+  CDChangeBrightness.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgBitPlaneSlice.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgBitPlaneSlice.cpp(96,10): warning C4101: “err”: 未引用的局部变量
+  CDlgGammaVary.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgGrayScaleStretch.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgHistogram.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgImagePanning.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgImageRotate.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgImgInfo.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgInverseColor.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgInverseLshaped.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgInverseVshaped.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgLinerPara.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgLshaped.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgManualBinarization.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgMidFilter.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMidFilter.cpp(78,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMidFilter.cpp(79,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMidFilter.cpp(80,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMidFilter.cpp(81,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMidFilter.cpp(92,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMidFilter.cpp(93,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMidFilter.cpp(94,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMidFilter.cpp(95,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+  CDlgMorphology.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMorphology.cpp(108,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMorphology.cpp(109,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMorphology.cpp(110,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMorphology.cpp(111,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMorphology.cpp(112,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMorphology.cpp(113,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMorphology.cpp(114,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMorphology.cpp(115,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgMorphology.cpp(116,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+  CDlgMosaic.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgRegionCount.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgRegionCountPre.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgSmooth.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgSmooth.cpp(228,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgSmooth.cpp(229,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgSmooth.cpp(230,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgSmooth.cpp(231,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgSmooth.cpp(232,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgSmooth.cpp(240,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgSmooth.cpp(250,4): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgSmooth.cpp(259,4): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgSmooth.cpp(269,4): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+  正在生成代码...
+  正在编译...
+  CDlgThresholdTrans.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(493,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(506,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(546,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(562,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(609,12): warning C4244: “初始化”: 从“LONG”转换到“BYTE”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(675,29): warning C4302: “类型强制转换”: 从“LPSTR”到“unsigned char”截断
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(675,27): warning C4244: “初始化”: 从“long”转换到“unsigned char”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(792,42): warning C4309: “=”: 截断常量值
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(812,42): warning C4309: “=”: 截断常量值
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(832,42): warning C4309: “=”: 截断常量值
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlgThresholdTrans.cpp(852,42): warning C4309: “=”: 截断常量值
+  CDlgVshaped.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgWaterMark.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlgWindowTran.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  CDlg_Filter.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(1,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(1,1): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(1,1): message : 将宏添加到预编译头中，而不是在此处定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(5,1): message : 使用预编译头
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(94,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(95,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(96,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(97,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(98,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(99,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(100,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(101,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(102,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(103,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(104,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(127,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(128,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(129,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(130,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(131,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(132,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(133,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(134,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(135,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(136,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(137,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(171,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(172,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(173,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(174,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(175,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(176,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(177,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(178,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(179,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(180,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(181,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(203,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(204,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(205,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(206,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(207,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(208,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(209,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(210,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(211,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(212,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(213,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(236,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(237,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(238,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(239,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(240,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(241,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(242,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(243,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(244,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(245,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(246,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(269,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(270,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(271,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(272,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(273,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(274,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(275,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(276,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(277,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(278,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(279,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(302,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(303,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(304,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(305,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(306,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(307,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(308,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(309,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(310,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(311,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(312,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(322,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(323,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(324,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(325,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(326,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(327,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(328,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(329,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(330,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(331,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(332,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(340,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(341,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(342,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(343,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(344,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(345,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(346,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(347,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(348,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(349,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(350,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(359,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(360,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(361,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(362,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(363,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(364,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(365,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(366,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(367,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(368,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(369,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(461,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(462,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(463,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(464,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(465,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(466,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(467,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(468,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(469,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(470,85): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(470,70): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(534,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(535,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(536,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(537,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(538,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(539,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(540,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(541,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(542,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(543,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(544,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(556,25): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(583,12): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\CDlg_Filter.cpp(602,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  DIBAPI.CPP
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\DIBAPI.CPP(568,14): warning C4244: “初始化”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\DIBAPI.CPP(745,29): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\DIBAPI.CPP(1213,60): warning C4244: “参数”: 从“ULONGLONG”转换到“UINT”，可能丢失数据
+  MainFrm.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  MFCImgExperiment.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  MFCImgExperimentDoc.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+  MFCImgExperimentView.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1646,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1680,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1683,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1686,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1689,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1696,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1917,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,1): message : 参见“HTERROR”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1918,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\resource.h(1920,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,1): message : 参见“HTTRANSPARENT”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(680,21): warning C4101: “pTable1”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(754,12): warning C4101: “k”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(749,10): warning C4101: “j”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(749,7): warning C4101: “i”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(754,6): warning C4101: “temp”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(755,16): warning C4101: “num”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1322,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1323,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1324,56): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1324,52): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1556,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1557,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3036,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3053,9): warning C4101: “j”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3053,6): warning C4101: “i”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3563,42): warning C4309: “=”: 截断常量值
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3583,42): warning C4309: “=”: 截断常量值
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3603,42): warning C4309: “=”: 截断常量值
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3623,42): warning C4309: “=”: 截断常量值
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3490,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3656,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3725,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3804,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3805,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3806,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3807,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3808,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3809,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3810,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3811,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3812,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3813,18): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3814,17): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3862,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4234,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4399,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4498,44): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4499,44): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4500,44): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4504,18): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4505,18): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4506,18): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4554,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4911,54): warning C4244: “参数”: 从“double”转换到“LONG”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4912,54): warning C4244: “参数”: 从“double”转换到“LONG”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4647,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(5225,6): warning C4101: “i”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(5304,22): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  PointTrans.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(22,1): warning C4005: “PI”: 宏重定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.h(4,1): message : 参见“PI”的前一个定义
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(137,7): warning C4101: “j”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(136,7): warning C4101: “i”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(438,28): warning C4244: “=”: 从“LONG”转换到“BYTE”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(573,62): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(1710,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(1806,64): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(3777,6): warning C4101: “temp”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(3993,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\PointTrans.cpp(4141): warning C4715: “findciucu8”: 不是所有的控件路径都返回值
+  Dib.cpp
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\Dib.cpp(248,14): warning C4244: “初始化”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\Dib.cpp(321,28): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\Dib.cpp(432,7): warning C4101: “j”: 未引用的局部变量
+F:\学习\大二\数字图像基础\实验\MFCImgExperiment\Dib.cpp(431,7): warning C4101: “i”: 未引用的局部变量
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.rh(471): warning RC4005: 'PWR_FAIL' : redefinition
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.rh(884): warning RC4005: 'HTERROR' : redefinition
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.rh(885): warning RC4005: 'HTTRANSPARENT' : redefinition
+  
+  MFCImgExperiment.vcxproj -> F:\学习\大二\数字图像基础\实验\MFCImgExperiment\x64\Debug\MFCImgExperiment.exe

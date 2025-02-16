@@ -1,0 +1,88 @@
+﻿  MFCImgExperimentView.cpp
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(40,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(41,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(347,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(397,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(544,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(608,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1644,1): warning C4005: “_WIN32_IE”: 宏重定义
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1678,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11073,1): message : 参见“IDI_APPLICATION”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1681,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11074,1): message : 参见“IDI_HAND”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1684,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11075,1): message : 参见“IDI_QUESTION”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1687,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11076,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1690,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11077,1): message : 参见“IDI_ASTERISK”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1692,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11079,1): message : 参见“IDI_WINLOGO”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1694,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11082,1): message : 参见“IDI_SHIELD”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1910,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(2564,1): message : 参见“HTERROR”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1911,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(2074,1): message : 参见“PWR_FAIL”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\resource.h(1913,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(2565,1): message : 参见“HTTRANSPARENT”的前一个定义
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(676,21): warning C4101: “pTable1”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(750,12): warning C4101: “k”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(745,10): warning C4101: “j”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(745,7): warning C4101: “i”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(750,6): warning C4101: “temp”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(751,16): warning C4101: “num”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1318,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1319,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1320,56): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1320,52): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1552,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(1553,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3032,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3049,9): warning C4101: “j”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3049,6): warning C4101: “i”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3559,42): warning C4309: “=”: 截断常量值
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3579,42): warning C4309: “=”: 截断常量值
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3599,42): warning C4309: “=”: 截断常量值
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3619,42): warning C4309: “=”: 截断常量值
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3486,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3652,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3721,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3800,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3801,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3802,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3803,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3804,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3805,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3806,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3807,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3808,21): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3809,18): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3810,17): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(3857,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4225,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4390,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4489,44): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4490,44): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4491,44): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4495,18): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4496,18): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4497,18): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4545,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4902,54): warning C4244: “参数”: 从“double”转换到“LONG”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4903,54): warning C4244: “参数”: 从“double”转换到“LONG”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4638,17): warning C4101: “lpSrc”: 未引用的局部变量
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(4985,20): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+F:\学习\数字图像基础\实验\MFCImgExperiment\MFCImgExperimentView.cpp(5076,14): warning C4244: “=”: 从“FLOAT”转换到“unsigned char”，可能丢失数据
+  MFCImgExperiment.vcxproj -> F:\学习\数字图像基础\实验\MFCImgExperiment\Debug\MFCImgExperiment.exe
