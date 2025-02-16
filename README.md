@@ -21,8 +21,6 @@
 
 打开后，可以根据功能框中的内容数字图像进行处理。
 
-![image-20250215233707927](C:\Users\R9000X\AppData\Roaming\Typora\typora-user-images\image-20250215233707927.png)
-
 ![](./images/image-20250215133303745.png)
 
 ## 实现功能
